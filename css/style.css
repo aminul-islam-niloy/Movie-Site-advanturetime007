@@ -52,10 +52,16 @@ h3 {
 
 .card-img-top {
     height: 400px;
-    width: 300px;
+    width: 270px;
     text-align: center;
     justify-content: center;
     align-items: center;
+}
+
+.card {
+    margin-top: 20px;
+    height: 540px;
+    width: 272px;
 }
 
 body {
@@ -70,12 +76,6 @@ body {
     width: auto;
     padding: 4px;
     margin-bottom: 20px;
-}
-
-.card {
-    margin-top: 20px;
-    height: 560px;
-    width: 300px;
 }
 
 .request-section {
