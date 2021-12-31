@@ -44,14 +44,16 @@ h3 {
 .tutorial-section {
     margin-top: 20px;
     margin-bottom: 20px;
-    margin-left: 60px;
-    margin-right: 55px;
+    margin-left: 80px;
+    margin-right: 80px;
 }
 
 .card-img-top {
     height: 400px;
-    width: 280px;
+    width: 300px;
     text-align: center;
+    justify-content: center;
+    align-items: center;
 }
 
 body {
@@ -61,17 +63,17 @@ body {
     background-image: url("https://images.hdqwalls.com/wallpapers/white-cube-pattern-4k-bu.jpg");
 }
 
-.card {
-    margin-top: 20px;
-    height: 560px;
-    width: 282px;
-}
-
 .blog-section {
     height: 300px;
     width: auto;
     padding: 4px;
     margin-bottom: 20px;
+}
+
+.card {
+    margin-top: 20px;
+    height: 560px;
+    width: 300px;
 }
 
 .request-section {
