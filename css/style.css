@@ -1,0 +1,90 @@
+#logo {
+    width: 400px;
+    margin-left: 30px;
+}
+
+.navbar {
+    margin: 0;
+}
+
+.dropdown-menu {
+    border-top: 40px;
+    font-weight: bold;
+    height: auto;
+    background-color: #212529;
+    width: 200px;
+    margin-top: 20px;
+}
+
+.dropdown-item {
+    color: whitesmoke;
+    border: 1px groove rgb(49, 14, 247);
+}
+
+.dropdown-item:hover {
+    border: 1px groove rgb(3, 56, 3);
+}
+
+.nav-link {
+    font-display: bold;
+}
+
+.nav-link:hover {
+    background-color: rgb(241, 188, 14);
+}
+
+.dropdown-divider {
+    background-color: rgb(13, 14, 13);
+}
+
+h3 {
+    color: rgb(241, 187, 9);
+}
+
+.tutorial-section {
+    margin-top: 20px;
+    margin-bottom: 40px;
+    margin-left: 90px;
+    margin-right: 90px;
+}
+
+body {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url("https://images.hdqwalls.com/wallpapers/white-cube-pattern-4k-bu.jpg");
+}
+
+.card {
+    margin-top: 20px;
+}
+
+.blog-section {
+    height: 300px;
+    width: auto;
+    padding: 4px;
+    margin-bottom: 20px;
+}
+
+.request-section {
+    text-align: center;
+    margin: 70px;
+    height: 150px;
+}
+
+.footer {
+    font-weight: bold;
+    text-align: center;
+    color: rgb(244, 248, 244);
+    background-color: #131414;
+}
+
+.colortext {
+    color: #04AA6D;
+    font-weight: bold;
+}
+
+.colortext1 {
+    color: #f80e6f;
+    font-weight: bold;
+}
