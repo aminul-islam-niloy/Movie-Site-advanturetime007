@@ -8,12 +8,12 @@
 }
 
 .dropdown-menu {
-    border-top: 40px;
+    border-top: 15px;
     font-weight: bold;
     height: auto;
     background-color: #212529;
     width: 200px;
-    margin-top: 20px;
+    margin-top: 7px;
 }
 
 .dropdown-item {
@@ -51,7 +51,7 @@ h3 {
 } */
 
 .card-img-top {
-    height: 400px;
+    height: 420px;
     width: 270px;
     text-align: center;
     justify-content: center;
